@@ -1,4 +1,4 @@
-# Latex simple template
+# Latex sample
 
 Simple example of components LaTeX with Russian language.
 
